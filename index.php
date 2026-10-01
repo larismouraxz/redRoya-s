@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trabalho sobre GRID</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+   <div class="geral">
+     <div class="bloco1">
+        <img src="img/car.jpg" alt="" class="imagem-perfil">
+    </div>
+
+    <div class="bloco2">
+        <h1 class="titulo-b2">RedRoyal's</h1>
+        <p class="texto-b2">Encontre o carro ideal para você
+
+    Descubra uma seleção de carros modernos, 
+    potentes e confortáveis para todos os estilos. 
+    Compare modelos, confira suas principais 
+    características e encontre o veículo que combina 
+    com você.
+
+    Explore nossos carros e escolha o seu próximo destino. 🚗 </p>
+    <br>
+    <div class="geral">
+     <a href="#"> 
+    <img src="img/seta.png" alt="" class="imagem-seta">
+
+    </a>
+
+   </div>
+</body>
+</html>
